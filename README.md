@@ -7,4 +7,5 @@ make a change
 
 - git switch -c <name>: create <name> and switch to it in one go, from HEAD
 
-- git fetch
+- git branch -d <name>: will delete the branch <name>
+- git fetch --prune
